@@ -42,7 +42,7 @@ class MainActivity : ComponentActivity() {
                 "10 min",
                 listOf("Tortillas", "Carne", "Cebolla", "Cilantro"),
                 listOf("Calienta la tortilla", "Agrega la carne", "Sirve con cebolla y cilantro"),
-                R.drawable.ic_launcher_foreground // ⚠️ cámbialo por imagen1 si la tienes
+                R.imagen1
             ),
             Recipe(
                 "Ensalada Fresca",
@@ -50,7 +50,7 @@ class MainActivity : ComponentActivity() {
                 "15 min",
                 listOf("Lechuga", "Tomate", "Pepino", "Aceite de oliva"),
                 listOf("Lava los vegetales", "Corta en trozos", "Mezcla y sirve"),
-                R.drawable.ic_launcher_foreground // ⚠️ cámbialo por imagen2 si la tienes
+                R.imagen2
             ),
             Recipe(
                 "Smoothie Energético",
@@ -58,7 +58,7 @@ class MainActivity : ComponentActivity() {
                 "5 min",
                 listOf("Banana", "Fresas", "Leche", "Miel"),
                 listOf("Coloca todo en la licuadora", "Licúa hasta quedar homogéneo", "Sirve frío"),
-                R.drawable.ic_launcher_foreground // ⚠️ cámbialo por imagen3 si la tienes
+                R.imagen3 
             ),
             Recipe(
                 "Tacos Rápidos",
@@ -66,7 +66,7 @@ class MainActivity : ComponentActivity() {
                 "10 min",
                 listOf("Tortillas", "Carne", "Cebolla", "Cilantro"),
                 listOf("Calienta la tortilla", "Agrega la carne", "Sirve con cebolla y cilantro"),
-                R.drawable.ic_launcher_foreground // ⚠️ cámbialo por imagen1 si la tienes
+                R.imagen1
             ),
             Recipe(
                 "Ensalada Fresca",
@@ -74,7 +74,7 @@ class MainActivity : ComponentActivity() {
                 "15 min",
                 listOf("Lechuga", "Tomate", "Pepino", "Aceite de oliva"),
                 listOf("Lava los vegetales", "Corta en trozos", "Mezcla y sirve"),
-                R.drawable.ic_launcher_foreground // ⚠️ cámbialo por imagen2 si la tienes
+                R.imagen2
             ),
             Recipe(
                 "Smoothie Energético",
@@ -82,7 +82,7 @@ class MainActivity : ComponentActivity() {
                 "5 min",
                 listOf("Banana", "Fresas", "Leche", "Miel"),
                 listOf("Coloca todo en la licuadora", "Licúa hasta quedar homogéneo", "Sirve frío"),
-                R.drawable.ic_launcher_foreground // ⚠️ cámbialo por imagen3 si la tienes
+                R.imagen3
             )
         )
 
